@@ -1,10 +1,9 @@
 ### About me
 
 <h1 align="left">Hey! Nice to see you.</h1>
-<h3 align="left">Welcome to my page. ✌
-I'm Jiwon and I am Korean. I am born in 2010 and I want to be a developer.
+<h3 align="left">Welcome to my page. ✌</h3>
+<h3 align="left">I'm Jiwon and I am Korean. I am born in 2010 and I want to be a developer.
 Please cheer for me🔥</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KimJiwon0501&label=Profile%20views&color=0e75b6&style=flat" alt="KimJiwon0501" /> </p>
 
 <h3 align="left">Connect with me:</h3>
