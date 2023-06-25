@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm Jiwon Kim</h1>
+<h1 align="left">✌Hey! Nice to see you.</h1>
 <h3 align="left"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KimJiwon0501&label=Profile%20views&color=0e75b6&style=flat" alt="KimJiwon0501" /> </p>
