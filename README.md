@@ -2,6 +2,7 @@
 
 <h1 align="left">Hey! Nice to see you.</h1>
 <h3 align="left">Welcome to my page. ✌</h3>
+<h3 align="left">I am a middle school student in Korea.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
